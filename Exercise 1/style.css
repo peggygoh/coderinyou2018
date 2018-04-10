@@ -1,0 +1,18 @@
+strong {
+    font: bolder;
+}
+em {
+    color: red;
+}
+h1 {
+    color: yellowgreen;
+}
+.class_A {
+    color: teal;
+}
+.b {
+    color: red;
+}
+.a {
+    font-size: 16px
+}
