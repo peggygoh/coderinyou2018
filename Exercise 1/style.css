@@ -19,3 +19,16 @@ h1 {
 .my-color {
     color: red;
 }
+
+
+@media (min-width:768px) {
+.my_title{
+    font-size: 60px
+    }
+}
+
+@media(max-width::768px) {
+.my_title{
+    font-size: 20px
+    }
+}
